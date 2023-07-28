@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryaman75
-- 👀 I’m interested in C++, project making and software
-- 🌱 I’m currently learning data structures and algorithms
+- 👀 I’m interested in Data Science, project making and software
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on anywhere😁😁
 - 📫 How to reach me aryamanbackup75@gmail.com
 
